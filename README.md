@@ -9,7 +9,7 @@ Build Status:
 Floodlight Wiki
 ---------------
 
-First, the Floodlight wiki has moved. Please visit us at our new site hosted by Atlassian:
+First, the Floodlight wiki has moved. Please visit  at new site hosted by Atlassian:
 
 https://floodlight.atlassian.net/wiki/display/floodlightcontroller/Floodlight+Documentation
 
@@ -37,7 +37,7 @@ If you use a Network Hypervisor you need one FloodLight controller for each slic
 Users run the controllers in the same machine, so you need to change the OpenFlow Port, HTTP ports and other ports. For a deepth guide, download the tutorial to run multiple FloodLight controllers with FlowVisor: http://www.mediafire.com/file/8rc7hcvpc258wm4/How+to+Run+Multiple+Floodlight+Controllers+with+FlowVisor.pdf.
 
 Controller parameters setting up:
-
+---------------------------------
 Setting up of Open Flow Controller parameters for each network slice.
 Go to the directory floodlight/src/main/resources/learningswith.defaultproperties and
 you can parametrize the following parameters:
