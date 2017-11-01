@@ -18,7 +18,7 @@ What is Floodlight?
 
 Floodlight is the leading open source SDN controller. It is supported by a community of developers including a number of engineers from Big Switch Networks (http://www.bigswitch.com/).
 
-For further details visit the GitHub page of Floodlight: 
+For further details visit the GitHub page of Floodlight: https://github.com/floodlight/floodlight
 
 For instructions how to install Floodlight: https://floodlight.atlassian.net/wiki/spaces/floodlightcontroller/pages/1343544/Installation+Guide
 
@@ -29,12 +29,12 @@ We put some changes on this module to achieve our goals:
 2) Bandwidth allocation for each network slice(chosen at FlowVisor level)
 
 To use this controller, you need:
-1) Open Flow Switch enabled(virtual o physic)
-2) A network topology(phisical or virtual, such as Mininet)
+1) Open Flow Switch enabled(virtual o physical)
+2) A network topology(physical or virtual, such as Mininet)
 3) To reach the main purpose, even a Network Hypervisor
 
 If you use a Network Hypervisor you need one FloodLight controller for each slice.
-Users run the controllers in the same machine, so you need to change the OpenFlow Port, HTTP ports and other ports. For a deepth guide, download the tutorial to run multiple FloodLight controllers with FlowVisor: http://www.mediafire.com/file/8rc7hcvpc258wm4/How+to+Run+Multiple+Floodlight+Controllers+with+FlowVisor.pdf.
+Users run the controllers in the same machine, so you need to change the OpenFlow Port, HTTP ports and other ports. For a depth guide, download the tutorial to run multiple FloodLight controllers with FlowVisor: http://www.mediafire.com/file/8rc7hcvpc258wm4/How+to+Run+Multiple+Floodlight+Controllers+with+FlowVisor.pdf.
 
 Controller parameters setting up:
 ---------------------------------
